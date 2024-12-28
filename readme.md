@@ -1,3 +1,5 @@
+<img src="image.png">
+<br>
 
 # DecimalSearch Project 🚀
 
